@@ -1,0 +1,20 @@
+EXERCÍCIOS PROPOSTOS
+
+
+
+19. Sabe-se que, para iluminar de maneira correta os cômodos de uma casa, para cada m2, deve-se usar 18 W
+    de potência. Faça um programa que receba as duas dimensões de um cômodo (em metros), calcule e mostre
+    a sua área (em m2) e a potência de iluminação que deverá ser utilizada.
+
+21. Faça um programa que receba o número de horas trabalhadas, o valor do salário mínimo e o número
+    de horas extras trabalhadas, calcule e mostre o salário a receber, de acordo com as regras a seguir:
+    
+    a) a hora trabalhada vale 1/8 do salário mínimo;
+    b) a hora extra vale 1/4 do salário mínimo;
+    c) o salário bruto equivale ao número de horas trabalhadas multiplicado pelo valor da hora trabalhada;
+    d) a quantia a receber pelas horas extras equivale ao número de horas extras trabalhadas multiplicado pelo valor
+    da hora extra;
+    e) o salário a receber equivale ao salário bruto mais a quantia a receber pelas horas extras.
+
+23. Faça um programa que receba a medida de dois ângulos de um triângulo, calcule e mostre a medida do
+    terceiro ângulo. Sabe-se que a soma dos ângulos de um triângulo é 180 graus.

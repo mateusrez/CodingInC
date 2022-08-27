@@ -1,0 +1,1 @@
+// Ler um valor inteiro. Identificar se é ele par ou ímpar.

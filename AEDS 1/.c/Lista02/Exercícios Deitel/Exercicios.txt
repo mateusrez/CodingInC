@@ -1,0 +1,54 @@
+ EXERCICIOS
+ 
+ 
+ Obra do Deitel:
+ 
+        Estudar o Capítulo 2 e, no Capítulo 3, as seções de 3.1 a 3.6
+        E resolver os seguintes Exercícios: 3.17 e 3.21
+
+            3.17    Tendo em vista o alto preço da gasolina, os motoristas estão preocupados com a
+                    quilometragem percorrida por seus automóveis. Um motorista fez o controle recompletando
+                    várias vezes o tanque e registrando os quilômetros percorridos e os litros de gasolina
+                    necessários para encher o tanque. Desenvolva um programa em C que receba como dados a
+                    quilometragem dirigida e os litros usados para recompletar o tanque. O programa deve calcular
+                    e exibir a quilometragem por litro obtida para cada recompletamento. Depois de processar
+                    todas as informações, o programa deve calcular e exibir a média de quilômetros por litro
+                    obtida para todos os recompletamentos.
+
+                    Entre com os litros consumidos (-1 para finalizar): 12.8
+                    Entre com os km percorridos: 287
+                    A taxa km/litro para esse tanque foi 22.421875
+
+                    Entre com os litros consumidos (-1 para finalizar): 10.3
+                    Entre com os km percorridos: 200
+                    A taxa km/litro para esse tanque foi 19.417475
+
+                    Entre com os litros consumidos (-1 para finalizar): 5
+                    Entre com os km percorridos: 120
+                    A taxa km/litro para esse tanque foi 24.000000
+
+                    Entre com os litros consumidos (-1 para finalizar): -1
+                    A taxa total de km/litro foi 21.601423
+
+            3.21    Desenvolva um programa em C que determine o pagamento bruto de cada um de vários
+                    empregados. A companhia paga o valor de uma "hora normal" pelas primeiras 40 horas
+                    trabalhadas de cada empregado e paga o valor de uma "hora extra" (uma vez e meia a hora
+                    normal) para cada hora trabalhada depois de completadas as primeiras 40 horas. Você recebeu
+                    uma lista de empregados da companhia, o número de horas que cada empregado trabalhou
+                    durante a semana passada e o valor da "hora normal" de cada empregado. Seu programa deve
+                    receber essas informações de cada empregado além de determinar e exibir o pagamento bruto
+                    do empregado.
+
+                    Entre com o numero de horas trabalhadas (-1 para finalizar): 39
+                    Entre com o valor da hora normal do trabalhador C$00.00): 10.00
+                    Salário: $390.00
+
+                    Entre com o numero de horas trabalhadas (-1 para finalizar): 40
+                    Entre com o valor da hora normal do trabalhador ($00.00): 10.00
+                    Salário: $400.00
+
+                    Entre com o numero de horas trabalhadas (-1 para finalizar): 41
+                    Entre com o valor da hora normal do trabalhador ($00.00): 10.00
+                    Salário: 415.00
+
+                    Entre com o numero de horas trabalhadas (-1 para finalizar): -1

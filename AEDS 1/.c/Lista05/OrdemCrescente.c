@@ -1,0 +1,1 @@
+// Construa um programa que escreva na tela do monitor de vídeo os números inteiros de um até dez (ordem crescente). Utilize estrutura de repetição com teste no final.
