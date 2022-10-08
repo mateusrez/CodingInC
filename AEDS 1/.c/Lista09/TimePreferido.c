@@ -28,7 +28,7 @@ int main()
             printf("\nDigite o tamanho da tumrma: [0...70] \n");
             scanf("%i", &alunos);
             erro = false;
-            if (alunos < 1 && alunos > 70)
+            if (alunos < 1 || alunos > 70)
             {
                 puts("\nValor invalido\n");
                 erro = true;
